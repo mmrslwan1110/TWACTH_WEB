@@ -1,0 +1,23 @@
+{
+	"contentrating" : "Everyone",
+	"dependency" : "1289961420",
+	"description" : "截取游戏赛博朋克2077最新的互动解密网站，修改制作。",
+	"file" : "",
+	"preset" : 
+	{
+		"backgroundImage" : "files/未标题-1.png",
+		"backgroundPulse" : false,
+		"backgroundPulseDuration" : 5,
+		"backgroundPulseMax" : 200,
+		"backgroundPulseMin" : 100,
+		"clockColor" : "0.19215686274509805 0.4392156862745098 0.3254901960784314",
+		"clockOffset" : 35,
+		"clockSize" : 34,
+		"dateSize" : 34,
+		"schemecolor" : "0 0 0"
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Cyberpunk" ],
+	"title" : "赛博朋克2077-时钟壁纸",
+	"visibility" : "public"
+}

@@ -1,0 +1,22 @@
+{
+	"description" : "A simplistic clock-calendar combo inspired by ToshimonsterRealm, based on Matt Juggins' clock-calendar combo over at CodePen (codepen.io/mattjuggins/pen/WGRRYx).\n\nI just made the full port to WE, added a couple of customisation presets and a customisable background. Go to your steam directory/steamapps/workshop/431960/this background's id to find the full instructions in the README file.",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.1607843137254902 0.1607843137254902 0.1607843137254902"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Technology" ],
+	"title" : "Circular Calendar 2.0",
+	"type" : "web",
+	"visibility" : "public"
+}

@@ -1,0 +1,4 @@
+.transparency {
+    top: calc(25% - 75px);
+    left: calc(75% - 75px);
+}

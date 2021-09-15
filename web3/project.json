@@ -1,0 +1,22 @@
+{
+	"description" : "Modded and translated to English from http://steamcommunity.com/sharedfiles/filedetails/?id=876096213\n Credit to Luz and creator of the clock from codepen.io",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Technology" ],
+	"title" : "Circular Calendar and Clock",
+	"type" : "web",
+	"visibility" : "public"
+}
